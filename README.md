@@ -1,2 +1,5 @@
 # nextjs-base
-Next.js starter pack
+
+Installation: `npm install`
+Run as Developer: `npm run dev`
+Run as Production: `npm start` after build (`npm build`)
